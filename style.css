@@ -1,0 +1,40 @@
+body {
+  font-size: 16px;
+  font-family: serif;
+  background-color: grey;
+}
+.listing {
+  border: solid black;
+  padding: 8%;
+  border-width: 13px;
+  border-radius: 34px;
+  margin: 22px;
+  color: white;
+}
+h2 {
+  border: solid blue;
+  text-align: center;
+  border-radius: 25px;
+}
+h2:hover {
+  border: solid blue;
+  background-color: lemonchiffon;
+  text-align: center;
+  border-radius: 25px;
+}
+h4 {
+  color: yellow;
+  text-align: right;
+}
+.nput {
+  width: 90%;
+}
+.submit {
+  padding: 5px;
+}
+.title {
+  text-align: center;
+  color: blue;
+  font-size: 75px;
+  font-family: cursive;
+}
